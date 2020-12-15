@@ -6,11 +6,6 @@
     "serve": "vue-cli-service serve",
     "build": "react-scripts build",
     "lint": "vue-cli-service lint",
-    "dev": "react-scripts start",
-    "start": "serve -s build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "connect-history-api-fallback": "^1.6.0",
